@@ -1,7 +1,6 @@
 import csv
 import pygame
 import random
-#pitäis tehä se pygame ruutu ja semmoset tän tekstin alle
 pygame.init()
     
 font = pygame.font.SysFont("italic", 40)
